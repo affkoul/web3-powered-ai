@@ -5,6 +5,6 @@ All types of AI bots delivered to you by Web3!
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
-AI Bots Web3 Marketplace by [GAC DEV](https://geniusandcourage.com)
+AI Bots Web3 Marketplace by [GAC DEV](https://hlwsdtech.com)
 
-![AI Bots Web3 Marketplace](https://hlwsdtech.com:8081/images/web3aibots.jpg)
+![AI Bots Web3 Marketplace](https://hlwsdtech.com/images/zombie.jpg)
